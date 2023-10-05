@@ -31,7 +31,7 @@ Now, I eagerly pursue a career in Software Engineering due to its inherent deman
 **Melium Consulting** (January 2022 - July 2023), London
 _Senior Consultant: Supply Chain and Plant-based Industries_
 
-- Negotiated contracts and won clients, utilising business development, sales, adaptability, customer service and stakeholder management skills, increasing company revenue and meeting quarterly business targets.
+- Negotiated contracts and won clients, utilising business development, adaptability, customer service and stakeholder management skills, increasing company revenue and meeting quarterly business targets.
 - Created and delivered workshops for CEOs of prospective client companies, using Client Engagement and Advisory skills in order to attract new business and improve company visibility and reputation.
 - Delivered exceptional shortlists for niche and senior roles, including building entire leadership teams. This required excellent project management and communication skills, and resulted in meeting client targets, increasing company revenue and building company reputation.
 - Coaching of team members, requiring leadership, collaboration, communication and empathy, and resulting in increased productivity and employee engagement.
@@ -73,25 +73,35 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2023 to October 2023)
+- Highly competitive coding bootcamp (10% acceptance rate) composed of 16-weeks full-time self-led learning.
+- Developed a range of projects both individually and as part of a team, utilising technical proficiency in wide array of technologies and languages (including Python, Javascript, Swift, SQL, React, PostgresSQL, MongoDB, NodeJS, ExpressJS, HTML5/CSS). 
+- Employed OOP principles and used Git/GitHub extensively to ensure robust, iterative, efficient and maintainable code.
+- Applied Paired Programming, Debugging, TDD and Program Design techniques to optimise programs and promote a collaborative and knowledge-sharing team environment.
+- Managed CI/CD Pipeline, Cloud Deployment, and used tools such as Cloudinary, utilising modern deployment practices and knowledge of cloud-based technologies.
+- Implemented Agile methodologies such as using Trello, developing MVPs, pairing in sprints, conducting stand-ups, mood check-ins, and retrospectives. 
+- Worked with Testing Frameworks like Jest, Pytest, and Cypress, which shows my commitment to ensuring code reliability and quality through comprehensive testing. 
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### University of Leeds (September 2014 to July 2018)
 
-#### Any other qualifications
+- BA English Literature (European)
+- 2:1 Classification 
+- Secretary of Erasmus Student Network Society in my final year
 
-That in some arguable way make you a better software developer or well-rounded person
+#### Ludwig-Maximilians Universität, Munich (September 2016 to July 2017)
+
+- Erasmus Study Abroad Year, North American Literature
+- 1:1 Classification 
+
+#### Priestley College, Warrington (September 2012 - July 2014)
+
+- A* A* A* in English Literature, History, and Archaeology
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Technology and Gaming: Theme Winner of Showcode's Athena Hackathon (Final Project: [Talent Tap](https://www.canva.com/design/DAFnZ3vUgiE/B0xfEiwSlyoJMT2aYiNwsw/view?utm_content=DAFnZ3vUgiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+- Fitness, especially spin, weightlifting, and pilates 
+- Plant-based food and restaurants 
+- Literature & Culture
