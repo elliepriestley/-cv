@@ -24,7 +24,7 @@ Now, I am pursuing a career in Software Engineering due to its inherent demand f
 | [**Acebook Web Application**](https://github.com/elliepriestley/Acebook_Web_Application)            | Group project built during Makers Academy Bootcamp. Full-stack social media web application. | Javascript, CSS3,  HTML5, React, Bootstrap, MongoDB, Express.js, Node.js and Cloudinary for remote image hosting. |
 | [**London Girls' Club Website**](https://github.com/elliepriestley/London_Girls_Club_Website) | Pair project: Frontend website intended as a community-building space for women and non-binary people in the big city.| Javascript, CSS3, HTML5, Figma              | 
 [**Makers BnB Web Application**](https://github.com/elliepriestley/Makers_BnB_Group_Project) | Group Project created during Makers Academy Coding Bootcamp over 4 days. Full stack Airbnb-style web application. | Python, Flask, PostgreSQL, CSS3           | 
-[**MySQL Book Club Repository**](https://github.com/elliepriestley/MySQL_Bookclub_Repository) | Solo Project. | MySQL           | 
+[**MySQL Book Club Repository**](https://github.com/elliepriestley/MySQL_Bookclub_Repository) | Solo Project: Relational Database with user-friendly features to track the activity of a growing bookclub. | MySQL, MySQL Workbench         | 
 
 ## Experience
 
