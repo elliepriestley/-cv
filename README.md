@@ -59,7 +59,7 @@ _Pricing and Contracts Commercial Trainee_
 - Clear and empathetic communication is crucial in my engineering projects for understanding and addressing the needs of team members, clients, and users. This has led to more productive relationships and smoother project execution, vital in developing high-quality software solutions.
 
 #### Collaboration
-- **Team Collaboration:**  Demonstrated the ability to work effectively within Engineering teams, evidenced by winning the Showcode's Athena Hackathon top theme prize (July 2023) for the category with the most entries. Implemented frequent check-ins, leveraged individual skills, and fostered open, respectful challenges, leading to innovative solutions.
+- **Team Collaboration:**  Demonstrated the ability to work effectively within Engineering teams, evidenced by winning the Showcode's Athena Hackathon top theme prize (July 2023, [Winning Pitch: Talent Tap](https://www.canva.com/design/DAFnZ3vUgiE/B0xfEiwSlyoJMT2aYiNwsw/view?utm_content=DAFnZ3vUgiE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)) for the category with the most entries. Implemented frequent check-ins, leveraged individual skills, and fostered open, respectful challenges, leading to innovative solutions.
 - **Empathy and Perspective:** Recognized the importance of mental breaks and reallocating work to maintain team members' confidence levels, which is vital for team success. Empathy has been instrumental in building effective teams and resolving conflicts.
 
 - My experience with effective team collaboration has been instrumental in Engineering projects: improves team efficiency, inspires creativity, facilitates inclusivity, supports learning, and increases the quality and creativity of the product.
