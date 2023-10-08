@@ -68,7 +68,7 @@ _Pricing and Contracts Commercial Trainee_
 - **Adaptability:** Thrive in fast-paced, challenging environments by effectively navigating unforeseen circumstances. A proven track record in both start-up and international settings has honed the ability to quickly adapt to new programming languages and frameworks.
 - **Creative Problem Solver:** Utilize creativity to devise unique solutions to complex problems. Successfully proposed and implemented innovative hiring strategies in the Executive Search industry catering to niche and senior roles. Swiftly adapted to client needs and strategized solutions to meet them, i.e. proposed 'high potential' junior candidates to address budget mismatches. Effectively communicate these solutions to clients using a comprehensive view of the job market and successful case studies.
 
-- Adaptability and creative problem-solving have been key in engineering projects, enabling effective management of change and innovation in the technology sector, greater creative solutions and better-informed decision-making under time constraints.
+- Adaptability and creative problem solving have been key in engineering projects, enabling effective management of change and innovation in the technology sector, greater creative solutions and better-informed decision-making under time constraints.
 
 
 ## Education
